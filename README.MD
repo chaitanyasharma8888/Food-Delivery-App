@@ -1,8 +1,9 @@
-🍔 Food Delivery App (React + Parcel + Vercel)
-A responsive Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components. Deployed on Vercel.
-
 Live Demo
 *** -----Note: Enable CORS extension for seamless API requests during development.-----***
+
+# Food Delivery App 💥
+🍔 Food Delivery App (React + Parcel + Vercel)
+A responsive Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components. Deployed on Vercel.
 
 🚀 Features
 1. Home Page
