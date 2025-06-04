@@ -1,0 +1,3 @@
+export const CDN_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
+export const LOGO_URL="https://img.freepik.com/free-vector/delivery-logo-template_23-2147880262.jpg?t=st=1746885771~exp=1746889371~hmac=05690ecfb71520df6fe3b9007bef784eaba9ecd62c0ab31fee913a90233a3bb5&w=826";
+export const MENU_API="https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.9352403&lng=77.624532&restaurantId="
