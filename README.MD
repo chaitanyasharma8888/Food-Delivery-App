@@ -1,13 +1,10 @@
-Live Demo
-*** -----Note: Enable CORS extension for seamless API requests during development.-----***
-
-# Food Delivery App 💥
-🍔 Food Delivery App (React + Parcel + Vercel)
-A responsive Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components. Deployed on Vercel.
+Food Delivery App 💥
+🍔 Food Delivery App (React + Parcel)
+A responsive Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components.
 
 🚀 Features
-1. Home Page
-Header: Navigation links (Home, About, Contact, Grocery, Cart) + Login button.
+
+Home Page Header: Navigation links (Home, About, Contact, Grocery, Cart) + Login button.
 
 Dynamic Search:
 
@@ -25,19 +22,16 @@ Click any card to expand a custom accordion showing menu items.
 
 Add items to cart directly from the accordion.
 
-2. Cart Page
-View all added items with a "Clear All" button to empty the cart.
+Cart Page: View all added items with a "Clear All" button to empty the cart.
 
-3. About Us
-Static content about the app.
+About Us: Static content about the app.
 
-4. Contact Us
-Submit a form (name + message) to see a temporary confirmation card (disappears after 2 seconds).
+Contact Us: Submit a form (name + message) to see a temporary confirmation card (disappears after 2 seconds).
 
-5. Grocery Page
-Placeholder message: "Our online Grocery Store will coming soon .... Thanks for patience".
+Grocery Page: Placeholder message: "Our online Grocery Store will coming soon .... Thanks for patience".
 
 ⚙️ Tech Stack
+
 Frontend: React (Functional Components)
 
 Bundler: Parcel
@@ -51,5 +45,3 @@ Context API (Cart, User Input)
 Redux Toolkit (Restaurant Data)
 
 Testing: Jest + React Testing Library (Unit Tests)
-
-Deployment: Vercel
