@@ -1,4 +1,4 @@
-import { CDN_URL } from "../Utils/Constants";
+import { CDN_URL } from "../utils/constants";
 import { useContext } from "react";
 import UserContext from "../utils/UserContext";
 

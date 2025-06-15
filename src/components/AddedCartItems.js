@@ -1,4 +1,4 @@
-import { CDN_URL } from "../Utils/Constants";
+import { CDN_URL } from "../utils/constants";
 
 const AddedCartItems = ({ items, dummy }) => {
  
