@@ -1,6 +1,6 @@
 Food Delivery App 💥
 🍔 Food Delivery App (React + Parcel)
-A responsive Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components.
+A Food Delivery Website Clone built with React, Parcel, and Tailwind CSS, featuring dynamic search, cart management, and interactive UI components.
 
 🚀 Features
 
