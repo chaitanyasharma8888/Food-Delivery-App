@@ -1,4 +1,4 @@
-import { MENU_API } from "../Utils/Constants";
+import { MENU_API } from "../utils/constants";
 import { useState, useEffect } from "react";
 import mockAPIMenuData from "../utils/mockAPImenuData.json"
 
